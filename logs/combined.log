@@ -1,0 +1,14 @@
+{"level":"info","message":"Parameters 6 and 2 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 6 and 2 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 6 and 3 received for addition","service":"calculator-microservice"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculator-microservice"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 3 received for addition","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 2 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculator-microservice"}
